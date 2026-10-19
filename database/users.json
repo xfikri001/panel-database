@@ -31,6 +31,14 @@
         "date": "2026-10-19",
         "panelsCreated": 0
       }
+    },
+    {
+      "telegramId": 123456789,
+      "role": "owner",
+      "usageData": {
+        "date": "2026-10-19",
+        "panelsCreated": 0
+      }
     }
   ]
 }
