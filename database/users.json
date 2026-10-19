@@ -15,6 +15,22 @@
         "date": "2026-10-19",
         "panelsCreated": 0
       }
+    },
+    {
+      "telegramId": {
+        "id": 1341370908,
+        "is_bot": false,
+        "first_name": "ᝰ.ᐟ𝑭𝒊𝒌𝒓𝒊 -",
+        "last_name": "/>𝒙𝒗𝒂𝒏𝒆𝒔𝒄𝒕",
+        "username": "fikriCS",
+        "language_code": "id",
+        "is_premium": true
+      },
+      "role": "reseller",
+      "usageData": {
+        "date": "2026-10-19",
+        "panelsCreated": 0
+      }
     }
   ]
 }
