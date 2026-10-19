@@ -7,6 +7,14 @@
         "date": "2026-10-19",
         "panelsCreated": 0
       }
+    },
+    {
+      "telegramId": 987654321,
+      "role": "owner",
+      "usageData": {
+        "date": "2026-10-19",
+        "panelsCreated": 0
+      }
     }
   ]
 }
